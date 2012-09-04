@@ -1,11 +1,5 @@
 #!/usr/bin/env python
 from pykd import *
-"""
-Author: Isaac Dawson 2012 for My Adventures in Game Hacking
-STUPID SHUT UP FACE DON'T CARE LICENSE:
-Copyright or left, or whatever the hell you want. If it blows up, probably
-my fault, but I don't care and you can't sue me because you stole my junk.
-"""
 
 class DriverObject(object):
     def __init__(self):
